@@ -1,0 +1,14 @@
+{
+    "name": "Password Generator",
+    "description": "Generates random passwords",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "Password Generator",
+        "default_popup": "index.html",
+        "default_icon":{
+            "16": "pwd_img.jpg",
+            "128": "pwd_img.jpg"
+        }
+    }
+}
